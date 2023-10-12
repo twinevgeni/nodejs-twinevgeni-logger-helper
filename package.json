@@ -1,0 +1,11 @@
+{
+  "name": "twinevgeni-logger-helper",
+  "version": "1.0.0",
+  "author": "Evgenii Izhboldin @twinevgeni",
+  "homepage": "https://github.com/twinevgeni/nodejs-twinevgeni-logger-helper.git",
+  "main": "index.js",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "log4js": "6.9.1"
+  }
+}
