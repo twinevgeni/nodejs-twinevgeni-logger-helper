@@ -1,6 +1,6 @@
 {
   "name": "twinevgeni-logger-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Evgenii Izhboldin @twinevgeni",
   "homepage": "https://github.com/twinevgeni/nodejs-twinevgeni-logger-helper.git",
   "main": "index.js",
